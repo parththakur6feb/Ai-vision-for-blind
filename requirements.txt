@@ -1,0 +1,8 @@
+opencv-python
+ultralytics
+pytesseract
+vosk
+pyaudio
+pyttsx3
+numpy
+sqlite3
